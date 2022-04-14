@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{420F2B78-340F-4EDD-91B9-7F9B954675CF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyCoaches/Models/databasePFF.edmx">
+    <Files>
+      <File FileName="MyCoaches/Controllers/ConnectController.cs" Line="1" Column="1" />
+      <File FileName="MyCoaches/Models/databasePFF.edmx" Line="1" Column="1" />
+      <File FileName="MyCoaches/Controllers/Backend/DashboardController.cs" />
+      <File FileName="MyCoaches/Controllers/Backend/LinkPostsController.cs" />
+      <File FileName="MyCoaches/Views/web.config" />
+      <File FileName="MyCoaches/Web.Debug.config" />
+      <File FileName="MyCoaches/Web.Release.config" />
+      <File FileName="MyCoaches/packages.config" />
+      <File FileName="MyCoaches/Views/Abonnements/Details.cshtml" />
+      <File FileName="MyCoaches/Global.asax" />
+      <File FileName="MyCoaches/App_Start/RouteConfig.cs" />
+      <File FileName="MyCoaches/Web.config" Line="41" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyCoaches" expanded="True">
+            <Node name="MyCoaches" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="databasePFF.edmx" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyCoaches PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
